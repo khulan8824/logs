@@ -1,3 +1,4 @@
-Type,Good,Bad,Inconsistent
-With deviation,11.1,3.39,4.42
-With latency,13.04,6.3,0
+Type,Good,Bad,Inconsistent,Inconsistent good
+With deviation,11.1,3.39,4.42,
+With latency,13.04,6.3,0,
+With count,11.1,3.39,2.95,1.9
